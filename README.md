@@ -31,8 +31,7 @@ Regression analysis
 
 - `YRBS_2007.csv` - dataset
 - `YRBS_Final_Project_Notebook.ipynb` - Jupyter notebook and code
-- `Infographic_YRBS_Alcohol_Depression_Landscape.png` - one-page infographic summary
-- `Infographic_YRBS_Alcohol_Depression_Landscape.pdf` - PDF version of the infographic
+- `Infographic_YRBS_Alcohol_Depression_Landscape.pdf` - PDF of the infographic
 - `README.md` - project information
 
 ## One-page Infographic Summary
