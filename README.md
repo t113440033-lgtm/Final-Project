@@ -2,7 +2,7 @@
 
 ## Student Information
 
-Name: Yang Yu-Ru
+Name:楊玉如
 
 Student ID: 113440033
 
@@ -31,11 +31,12 @@ Regression analysis
 
 - `YRBS_2007.csv` - dataset
 - `YRBS_Final_Project_Notebook.ipynb` - Jupyter notebook and code
-- `Infographic_YRBS_Alcohol_Depression_Landscape.pdf` - PDF of the infographic
+- `YRBS_one_page_infographic_landscape.pdf` - one-page infographic summary
 - `README.md` - project information
 
 ## One-page Infographic Summary
-[Download Infographic PDF](Infographic_YRBS_Alcohol_Depression_Landscape.pdf)
+
+[Download Infographic PDF](YRBS_one_page_infographic_landscape.pdf)
 
 ## Conclusion
 
