@@ -1,50 +1,46 @@
-# Depression and Alcohol Use Analysis (YRBS 2007)
+# Does Alcohol Consumption Affect Depression Among High School Students?
 
-## Project Overview
-This project analyzes the relationship between alcohol use and depression among adolescents using the YRBS 2007 dataset. The goal is to explore whether alcohol consumption is associated with higher levels of sadness or hopelessness.
+## Student Information
 
----
+Name:楊玉如
+
+Student ID:113440033
+
+## Project Repository
+
+https://github.com/t113440033-lgtm/Final-Project
+
+## Research Question
+
+Does alcohol consumption affect depression among high school students?
 
 ## Dataset
-- Source: Youth Risk Behavior Survey (YRBS) 2007
-- Variables used:
-  - SadOrHopeless (dependent variable)
-  - Alcohol use related variables (independent variables)
 
----
+Youth Risk Behavior Survey (YRBS) 2007
 
-## Methodology
-- Data cleaning and preprocessing
-- Descriptive statistics
-- Ordinary Least Squares (OLS) regression analysis
+## Method
 
----
+Regression Analysis
 
-## Key Results
-- Alcohol use is positively associated with higher levels of sadness or hopelessness.
-- The regression model shows statistical significance (p < 0.05).
-- However, the R-squared value is relatively low, indicating limited explanatory power.
+## Variables
 
----
+### Independent Variable
 
-## Conclusion
-The analysis suggests a statistically significant relationship between alcohol use and depressive symptoms among adolescents, although other unobserved factors likely play a major role.
+CurrentAlcoholUse
 
----
+### Dependent Variable
 
-## Files
-- `YRBS_Final_Project_Notebook.ipynb` → Main analysis notebook
-- `YRBS_2007.csv` → Dataset
-- `README.md` → Project description
+SadOrHopeless
 
----
+## Repository Contents
 
-## How to Run
-1. Clone the repository
-2. Open the notebook in Jupyter / VSCode
-3. Run all cells
+* YRBS_2007.csv
+* YRBS_Final_Project_Notebook.ipynb
+* README.md
+* Infographic
+* Presentation Video
 
----
+## Presentation Video
 
-## Presentation
-YouTube link: (to be added)
+YouTube Link:
+(To be added)
