@@ -2,45 +2,42 @@
 
 ## Student Information
 
-Name:楊玉如
+Name: Yang Yu-Ru
 
-Student ID:113440033
+Student ID: 113440033
 
 ## Project Repository
 
 https://github.com/t113440033-lgtm/Final-Project
 
+## Presentation Video
+
+YouTube Link: To be added
+
 ## Research Question
 
 Does alcohol consumption affect depression among high school students?
 
-## Dataset
+## Variables
 
-Youth Risk Behavior Survey (YRBS) 2007
+- Independent variable: `CurrentAlcoholUse`
+- Dependent variable: `SadOrHopeless`
 
 ## Method
 
-Regression Analysis
+Regression analysis
 
-## Variables
+## Project Materials
 
-### Independent Variable
+- `YRBS_2007.csv` - dataset
+- `YRBS_Final_Project_Notebook.ipynb` - Jupyter notebook and code
+- `Infographic_YRBS_Alcohol_Depression_Landscape.png` - one-page infographic summary
+- `Infographic_YRBS_Alcohol_Depression_Landscape.pdf` - PDF version of the infographic
+- `README.md` - project information
 
-CurrentAlcoholUse
+## One-page Infographic Summary
+[Download Infographic PDF](Infographic_YRBS_Alcohol_Depression_Landscape.pdf)
 
-### Dependent Variable
+## Conclusion
 
-SadOrHopeless
-
-## Repository Contents
-
-* YRBS_2007.csv
-* YRBS_Final_Project_Notebook.ipynb
-* README.md
-* Infographic
-* Presentation Video
-
-## Presentation Video
-
-YouTube Link:
-(To be added)
+The analysis suggests that current alcohol use is associated with depressive symptoms among high school students. Students with higher alcohol-use categories tend to have a higher probability of reporting feeling sad or hopeless.
