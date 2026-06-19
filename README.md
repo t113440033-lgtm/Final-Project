@@ -36,7 +36,7 @@ Regression analysis
 
 ## One-page Infographic Summary
 
-[Download Infographic PDF](YRBS_one_page_infographic_landscape.pdf)
+[Download Infographic PDF](YRBS_infographic.pdf)
 
 ## Conclusion
 
