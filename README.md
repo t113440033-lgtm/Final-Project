@@ -1,47 +1,50 @@
-# Final-Project
-# Does Alcohol Consumption Affect Depression Among High School Students?
+# Depression and Alcohol Use Analysis (YRBS 2007)
 
-## Student Information
+## 📌 Project Overview
+This project analyzes the relationship between alcohol use and depression among adolescents using the YRBS 2007 dataset. The goal is to explore whether alcohol consumption is associated with higher levels of sadness or hopelessness.
 
-Name: Yang Yu-Ru
+---
 
-Student ID: 113440033
+## 📊 Dataset
+- Source: Youth Risk Behavior Survey (YRBS) 2007
+- Variables used:
+  - SadOrHopeless (dependent variable)
+  - Alcohol use related variables (independent variables)
 
-## Project Repository
+---
 
-https://github.com/t113440033-lgtm/Final-Project
+## 🧪 Methodology
+- Data cleaning and preprocessing
+- Descriptive statistics
+- Ordinary Least Squares (OLS) regression analysis
 
-## Research Question
+---
 
-Does alcohol consumption affect depression among high school students?
+## 📈 Key Results
+- Alcohol use is positively associated with higher levels of sadness or hopelessness.
+- The regression model shows statistical significance (p < 0.05).
+- However, the R-squared value is relatively low, indicating limited explanatory power.
 
-## Dataset
+---
 
-Youth Risk Behavior Survey (YRBS) 2007
+## 💡 Conclusion
+The analysis suggests a statistically significant relationship between alcohol use and depressive symptoms among adolescents, although other unobserved factors likely play a major role.
 
-## Method
+---
 
-Regression Analysis
+## 📁 Files
+- `YRBS_Final_Project_Notebook.ipynb` → Main analysis notebook
+- `YRBS_2007.csv` → Dataset
+- `README.md` → Project description
 
-## Variables
+---
 
-### Independent Variable
+## ▶️ How to Run
+1. Clone the repository
+2. Open the notebook in Jupyter / VSCode
+3. Run all cells
 
-CurrentAlcoholUse
+---
 
-### Dependent Variable
-
-SadOrHopeless
-
-## Repository Contents
-
-* YRBS_2007.csv
-* YRBS_Final_Project_Notebook.ipynb
-* README.md
-* Infographic
-* Presentation Video
-
-## Presentation Video
-
-YouTube Link:
-(To be added)
+## 🎥 Presentation
+YouTube link: (to be added)
